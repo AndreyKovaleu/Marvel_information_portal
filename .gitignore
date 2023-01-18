@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# API key 
+.env
+
 # testing
 /coverage
 
@@ -22,5 +25,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# my settings
 /temp
+/package-lock.json
 *.docx
