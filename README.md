@@ -18,17 +18,17 @@
 
 - HTML
 - SCSS
-- React js
+- React
 - Webpack
 
 ## About me
 
-__Привет меня зовут Андрей. Я начинающий Frontend developer из Беларуси. Занимаюсь разработкай сайтов и веб-приложений, их адаптацией. В мои профессиональные компетенции входят знание по:__
+__Hi, My name is Andrey. I am a beginner Frontend developer from Belarus. I am engaged in the development of websites and web applications, their adaptation. My professional skills include knowledge of:__
 
  - HTML
  - CSS
  - JavaScript
- - React js
+ - React
  - jQuery
  - ООП
  - JSON
