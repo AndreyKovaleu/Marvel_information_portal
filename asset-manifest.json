@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Marvel_information_portal/static/css/main.03631486.chunk.css",
-    "main.js": "/Marvel_information_portal/static/js/main.6fef30b1.chunk.js",
-    "main.js.map": "/Marvel_information_portal/static/js/main.6fef30b1.chunk.js.map",
+    "main.js": "/Marvel_information_portal/static/js/main.1eecaabd.chunk.js",
+    "main.js.map": "/Marvel_information_portal/static/js/main.1eecaabd.chunk.js.map",
     "runtime-main.js": "/Marvel_information_portal/static/js/runtime-main.2503f9f9.js",
     "runtime-main.js.map": "/Marvel_information_portal/static/js/runtime-main.2503f9f9.js.map",
-    "static/js/2.4d40632d.chunk.js": "/Marvel_information_portal/static/js/2.4d40632d.chunk.js",
-    "static/js/2.4d40632d.chunk.js.map": "/Marvel_information_portal/static/js/2.4d40632d.chunk.js.map",
+    "static/js/2.38400f85.chunk.js": "/Marvel_information_portal/static/js/2.38400f85.chunk.js",
+    "static/js/2.38400f85.chunk.js.map": "/Marvel_information_portal/static/js/2.38400f85.chunk.js.map",
     "index.html": "/Marvel_information_portal/index.html",
     "static/css/main.03631486.chunk.css.map": "/Marvel_information_portal/static/css/main.03631486.chunk.css.map",
-    "static/js/2.4d40632d.chunk.js.LICENSE.txt": "/Marvel_information_portal/static/js/2.4d40632d.chunk.js.LICENSE.txt",
+    "static/js/2.38400f85.chunk.js.LICENSE.txt": "/Marvel_information_portal/static/js/2.38400f85.chunk.js.LICENSE.txt",
     "static/media/abyss.93d211d3.jpg": "/Marvel_information_portal/static/media/abyss.93d211d3.jpg",
     "static/media/mjolnir.61f31e18.png": "/Marvel_information_portal/static/media/mjolnir.61f31e18.png",
     "static/media/thor.533e3a5e.jpeg": "/Marvel_information_portal/static/media/thor.533e3a5e.jpeg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2503f9f9.js",
-    "static/js/2.4d40632d.chunk.js",
+    "static/js/2.38400f85.chunk.js",
     "static/css/main.03631486.chunk.css",
-    "static/js/main.6fef30b1.chunk.js"
+    "static/js/main.1eecaabd.chunk.js"
   ]
 }
