@@ -28,4 +28,4 @@ yarn-error.log*
 # my settings
 /temp
 /package-lock.json
-*.docx
+info.txt
