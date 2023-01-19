@@ -1,12 +1,10 @@
 # Marvel information portal
-___
 
 <p align="center">
   <img src="src/resources/img/application_screen.png" alt="Application screen"/>
 </p>
 
 ## Project description
-___
 
 <!-- Возможности приложения:
 1. производить поиск по имени или заданному фильтру
@@ -17,7 +15,6 @@ ___
 6. добавлять новых сотрудников -->
 
 ## Technologies used
-___
 
 - HTML
 - SCSS
@@ -25,7 +22,6 @@ ___
 - Webpack
 
 ## About me
-___
 
 __Привет меня зовут Андрей. Я начинающий Frontend developer из Беларуси. Занимаюсь разработкай сайтов и веб-приложений, их адаптацией. В мои профессиональные компетенции входят знание по:__
 
