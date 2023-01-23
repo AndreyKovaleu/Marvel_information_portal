@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Marvel_information_portal/static/css/main.cb03440f.chunk.css",
-    "main.js": "/Marvel_information_portal/static/js/main.c5255671.chunk.js",
-    "main.js.map": "/Marvel_information_portal/static/js/main.c5255671.chunk.js.map",
+    "main.js": "/Marvel_information_portal/static/js/main.9436a932.chunk.js",
+    "main.js.map": "/Marvel_information_portal/static/js/main.9436a932.chunk.js.map",
     "runtime-main.js": "/Marvel_information_portal/static/js/runtime-main.2503f9f9.js",
     "runtime-main.js.map": "/Marvel_information_portal/static/js/runtime-main.2503f9f9.js.map",
     "static/js/2.38400f85.chunk.js": "/Marvel_information_portal/static/js/2.38400f85.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2503f9f9.js",
     "static/js/2.38400f85.chunk.js",
     "static/css/main.cb03440f.chunk.css",
-    "static/js/main.c5255671.chunk.js"
+    "static/js/main.9436a932.chunk.js"
   ]
 }
