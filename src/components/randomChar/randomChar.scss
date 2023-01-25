@@ -1,4 +1,4 @@
-@import '../../style/variables.scss';
+@import "../../style/variables.scss";
 
 .randomchar {
     display: grid;
@@ -50,7 +50,7 @@
         font-size: 24px;
         line-height: 32px;
         letter-spacing: -0.045em;
-        color: #FFFFFF;
+        color: #ffffff;
         &:nth-child(2) {
             margin-top: 33px;
         }
