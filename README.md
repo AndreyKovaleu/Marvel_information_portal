@@ -1,53 +1,131 @@
-# Marvel information portal
+# Информационный портал по вселенной Marvel
 
 <p align="center">
   <img src="src/resources/img/application_screen.png" alt="Application screen"/>
 </p>
 
-## Project description
+## Используемые технологии
 
-<!-- Возможности приложения:
-1. производить поиск по имени или заданному фильтру
-2. помечать сотрудников на повышение (клик на имя сотрудника)
-3. можно редактировать зарплату (клик на поле с зарплатой)
-4. премирование сотрудников (клик на иконку с печенькой)
-5. удаление сотрудников из списка (клик на иконку с карзиной)
-6. добавлять новых сотрудников -->
+<table>
+  <tr>
+    <td align="center" valign="middle">
+			<p align="center"><b>HTML</b></p>
+			<img src="src/files/html.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>SCSS</b></p>
+			<img src="src/files/sass.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>React</b></p>
+			<img src="src/files/react.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Webpack</b></p>
+			<img src="src/files/webpack.svg" height="65" width="120"/>
+    </td>
+	</tr>
+</table>
 
-## Technologies used
+## Обо мне
 
-- HTML
-- SCSS
-- React
-- Webpack
+__[Мое резюме](https://drive.google.com/file/d/14yiTD0I1NH9CG0S71qGibgLLRFwRvPXc/view?usp=sharing)__
 
-## About me
+__Привет, меня зовут Андрей. Я начинающий Frontend developer из Беларуси. Занимаюсь разработкай сайтов и веб-приложений, их адаптацией. В мои профессиональные компетенции входят знания по:__
 
-__Hi, My name is Andrey. I am a beginner Frontend developer from Belarus. I am engaged in the development of websites and web applications, their adaptation. My professional skills include knowledge of:__
+<table>
+  <tr>
+    <td align="center" valign="middle">
+			<p align="center"><b>HTML</b></p>
+			<img src="src/files/html.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>CSS</b></p>
+			<img src="src/files/css.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>JavaScript</b></p>
+			<img src="src/files/javascript.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>React</b></p>
+			<img src="src/files/react.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>jQuery</b></p>
+			<img src="src/files/jquery.svg" height="65" width="120"/>
+    </td>
+	</tr>
+  <tr>
+    <td align="center" valign="middle">
+			<p align="center"><b>ООП</b></p>
+			<img src="src/files/oop.png" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>JSON</b></p>
+			<img src="src/files/json.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>AJAX</b></p>
+			<img src="src/files/ajax.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>ES6</b></p>
+			<img src="src/files/es6.jpg" height="65" width="65"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Git</b></p>
+			<img src="src/files/git.svg" height="65" width="120"/>
+    </td>
+	</tr>
+  <tr>
+    <td align="center" valign="middle">
+			<p align="center"><b>Webpack</b></p>
+			<img src="src/files/webpack.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Gulp</b></p>
+			<img src="src/files/gulp.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Bootstrap</b></p>
+			<img src="src/files/bootstrap.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>BEM</b></p>
+			<img src="src/files/bem.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>SASS/SCSS</b></p>
+			<img src="src/files/sass.svg" height="65" width="120"/>
+    </td>
+	</tr>
+  <tr>
+    <td align="center" valign="middle">
+			<p align="center"><b>Less</b></p>
+			<img src="src/files/less.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Babel</b></p>
+			<img src="src/files/babel.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Figma</b></p>
+			<img src="src/files/figma.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>Adobe PhotoShop</b></p>
+			<img src="src/files/adobe-photoshop.svg" height="65" width="120"/>
+    </td>
+    <td align="center" valign="middle">
+			<p align="center"><b>VS Code</b></p>
+			<img src="src/files/vs-code.svg" height="65" width="120"/>
+    </td>
+	</tr>
+</table>
 
- - HTML
- - CSS
- - JavaScript
- - React
- - jQuery
- - ООП
- - JSON
- - AJAX
- - ES6
- - Git
- - Webpack
- - Gulp
- - Bootstrap
- - БЭМ
- - SASS/SCSS
- - Less
- - Canvas
- - Figma
- - Adobe PhotoShop
- - VS Code
-
- __My contacts:__ 
+ __Мои контакты:__ 
  - e-mail: Andreykovaleu@gmail.com
  - LinkedIn: [Andrey Kovaleu](https://www.linkedin.com/in/andrey-kovaleu)
  
- __Let's work together:)__
+ __Давайте работать вместе 😊__
