@@ -3,11 +3,9 @@ class MarvelService {
   _apiKey = process.env.REACT_APP_MARVEL_API_KEY;
 
   getResource = async (url) => {
-    
-
     let res = await fetch(url);
 
-    if(!res.ok) {
+    if (!res.ok) {
       throw new Error(`Could not fetch ${url}, status: ${res.status}`);
     }
 
