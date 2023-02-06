@@ -1,4 +1,4 @@
-@import './variables';
+@import "./variables";
 
 .button {
     min-width: 101px;
@@ -45,7 +45,8 @@
             transition: none;
         }
     }
-    &__main, &__secondary {
+    &__main,
+    &__secondary {
         &:hover {
             color: #fff;
         }
@@ -58,34 +59,37 @@
                 transition: none;
             }
             &::after {
-                border-color: $grey transparent; 
+                border-color: $grey transparent;
                 transition: none;
             }
         }
     }
     &::before {
-        content: '';
+        content: "";
         display: block;
         height: 10px;
         margin-left: 10px;
         transition: none;
-
     }
     &::after {
-        content: '';
+        content: "";
         display: block;
         height: 10px;
         margin-right: 10px;
         transition: none;
-
     }
-    &.button__main::before, &.button__main::after {
+    &.button__main::before,
+    &.button__main::after {
         background-color: $main-color;
     }
-    &.button__secondary::before, &.button__secondary::after {
+    &.button__secondary::before,
+    &.button__secondary::after {
         background-color: $grey;
     }
     &:hover {
         transform: translateY(-5px);
+    }
+    &:disabled {
+        filter: grayscale(0.5);
     }
 }
